@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Justas Skaržinskas](https://up.htmlacademy.ru/htmlcss/28/user/162467).
-* Наставник: [Евгений Алипкин](https://htmlacademy.ru/profile/ealipkin)
+* Наставник: [Евгений Алипкин](https://htmlacademy.ru/profile/ealipkin).
 
 ---
 
